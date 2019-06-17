@@ -11,7 +11,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| your name | your emoji | your comments | | |
+| Nelson | :green_heart:  | I understand the GITHUB flow  | | |
 
 ___
 ___
