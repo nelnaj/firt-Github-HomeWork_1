@@ -11,7 +11,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Nelson | :green_heart:  | I understand the GITHUB flow (Mesut) | | |
+| Nelson | :green_heart:  | I understand the GITHUB flow (Mesut) |:+1: | good job |
 | Nelson | :green_heart:  | I understand the GITHUB flow (Berihu)| | |
 
 ___
