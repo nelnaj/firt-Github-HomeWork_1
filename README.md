@@ -15,6 +15,9 @@
 | Nelson | :green_heart:  | I understand the GITHUB flow (Berihu)| | |
 | Berihu | :green_heart:  | I am working on it| | |
 
+
+## The flow:
+
 <img src="https://user-images.githubusercontent.com/50958575/59761603-8a532d00-9295-11e9-9c9d-049442f16732.png">
 ___
 ___
