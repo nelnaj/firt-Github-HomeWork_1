@@ -13,6 +13,8 @@
 | --- | --- | --- | --- | --- |
 | Nelson | :green_heart:  | I understand the GITHUB flow (Mesut) |:+1: | good job |
 | Nelson | :green_heart:  | I understand the GITHUB flow (Berihu)| | |
+| Berihu | :green_heart:  | I am working on it| | |
+
 
 ___
 ___
